@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "521014690882",
+    "project_id": "notev1-72696",
+    "storage_bucket": "notev1-72696.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:521014690882:android:e638bb6d235745389099db",
+        "android_client_info": {
+          "package_name": "com.aditya.notev1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "521014690882-bv3gjibf4ffn7der3kap3p1pnqaqgvuu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6UdSpBNNInGv8bYXuF61q_CR5pfk59vU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "521014690882-bv3gjibf4ffn7der3kap3p1pnqaqgvuu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
